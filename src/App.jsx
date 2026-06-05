@@ -13,7 +13,6 @@ import Skills from './components/Skills'
 import Projects from './components/Projects'
 import Supporters from './components/Supporters'
 import Contact from './components/Contact'
-import MoodCalendar from './components/MoodCalendar'
 import MusicPlayer from './components/MusicPlayer'
 import WelcomeScreen from './components/WelcomeScreen'
 
@@ -105,7 +104,6 @@ export default function App() {
         <Skills />
         <Projects />
         <Supporters />
-        <MoodCalendar />
         <Contact />
       </div>
     </>
